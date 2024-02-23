@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+helloworld.txt
 ignored/ignoredhere/addsf.txt
 # Log file
 *.log
